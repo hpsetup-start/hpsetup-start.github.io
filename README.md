@@ -1,6 +1,6 @@
 # 123hp Printer Setup || Reinstall & Install hp driver
 
-[![123hp Printer Setup](click-here.PNG)](https://find-printer.usblogsites.com/)
+[![123hp Printer Setup](click-here.png)](https://find-printer.usblogsites.com/)
 
 HP Printers have made the task of printing hassle free and easier. These HP printers can print anywhere in your home and also it can scan, copy at an economical price. It can be quickly setup and occupies a small space with a compact design. All you need is to visit: [123hp Printer Setup](https://find-printer.usblogsites.com/) and install the hp printer on your Windows or Mac computer. 
 
